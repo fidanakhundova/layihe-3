@@ -1,0 +1,12 @@
+const rubl=document.querySelector('.rubl')
+const dollar=document.querySelector('.dollar')
+const euro=document.querySelector('.euro')
+const gbp=document.querySelector('.gbp')
+const rubl2=document.querySelector('.rubl2')
+const dollar2=document.querySelector('.dollar2')
+const euro2=document.querySelector('.euro2')
+const gbp2=document.querySelector('.gbp2')
+const exchange1=document.querySelector('.exchange1')
+const exchange2=document.querySelector('.exchange2')
+
+rubl.addEventListener('click',ff)
